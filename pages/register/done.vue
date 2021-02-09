@@ -85,7 +85,7 @@ export default {
 	  liff.sendMessages([
 		{
        type: 'text',
-      text: "#Register"
+      text: "Register"
     }
 	  ]).then(function () {
 		liff.closeWindow();
